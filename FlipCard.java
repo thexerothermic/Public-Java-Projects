@@ -1,3 +1,6 @@
+//@Author Elijah Brian
+//@Version May 02 2019
+//@Description This is the user interface for the card game "Memory", as well as the player control.
 package finalProject;
 
 import java.util.ArrayList;
